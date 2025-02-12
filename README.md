@@ -1,2 +1,2 @@
 # Business-Intelligence
-SQL Queries
+SQL Queries | Risk Analysis | Montecarlo
